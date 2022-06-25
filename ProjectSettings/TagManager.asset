@@ -8,6 +8,7 @@ TagManager:
   - RedCube
   - PurpleCube
   - YellowCube
+  - BridgePoint
   layers:
   - Default
   - TransparentFX
